@@ -3,7 +3,7 @@ module github.com/CheatXGO/dao-wrapper
 go 1.21.1
 
 require (
-	github.com/CheatXGO/scany/v2 v2.1.0-rc.2
+	github.com/CheatXGO/scany/v2 v2.1.0-rc.3
 	github.com/Masterminds/squirrel v1.5.4
 	github.com/jackc/pgx/v5 v5.5.2
 )

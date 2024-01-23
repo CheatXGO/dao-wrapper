@@ -1,5 +1,5 @@
-github.com/CheatXGO/scany/v2 v2.1.0-rc.2 h1:ezcWEuCScFu3qNGCa+PcSL3cWDWb3UpNVqoC6aYsNj4=
-github.com/CheatXGO/scany/v2 v2.1.0-rc.2/go.mod h1:86vDJsH61NAlgmA5vrH1TN9lys5G9qtyRgmjG4TbJsM=
+github.com/CheatXGO/scany/v2 v2.1.0-rc.3 h1:1/UlRkl9eWY6bngPhR0AB8fUIEaILJXi23vHnO9LQa4=
+github.com/CheatXGO/scany/v2 v2.1.0-rc.3/go.mod h1:j1OOq3JmggpZjyYUQxwwHBzVPr6M/HKD6jxaKhk++xI=
 github.com/Masterminds/squirrel v1.5.4 h1:uUcX/aBc8O7Fg9kaISIUsHXdKuqehiXAMQTYX8afzqM=
 github.com/Masterminds/squirrel v1.5.4/go.mod h1:NNaOrjSoIDfDA40n7sr2tPNZRfjzjA400rg+riTZj10=
 github.com/cockroachdb/cockroach-go/v2 v2.2.0 h1:/5znzg5n373N/3ESjHF5SMLxiW4RKB05Ql//KWfeTFs=
